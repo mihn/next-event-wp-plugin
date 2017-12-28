@@ -1,0 +1,50 @@
+.next-event-admin {
+	display: flex;
+	flex-direction: column;
+}
+
+.next-event-admin > label {
+	margin-bottom: 10px;
+}
+
+.next-event-admin > input {
+	margin-bottom: 10px;
+}
+
+.next-event {
+	display: flex;
+	flex-direction: column;
+	font-size: 16px;
+}
+
+.next-event a:hover {
+	text-decoration: none !important;
+}
+
+.next-event h1 {
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 18px;
+	margin-top: 0;
+}
+
+.next-event div {
+	display: flex;
+	flex-direction: row;
+}
+
+.next-event p {
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	padding-left: 10px;
+}
+
+.next-event img {
+	height: 24px;
+}
+
+.next-event .sponsor-logo {
+	width: auto;
+    height: 80px;
+}
